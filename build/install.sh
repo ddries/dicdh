@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sudo cp -f ./releases/linux/dicdh /usr/bin/
+sudo bash ./build/install_exec.sh
+sudo bash ./build/install_daemon.sh
