@@ -64,7 +64,7 @@ Example configuration file:
 
 ### Cloudflare API
 
-It uses the Cloudflare API to update the DNS registries. Thus, a valid API key with
+It uses the Cloudflare API to update the DNS records. Thus, a valid API key with
 permissions to edit DNS records is needed.
 
 Authenticating with email is not supported as it is considered unsecure and a bad practice.
