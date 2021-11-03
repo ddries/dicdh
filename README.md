@@ -67,7 +67,7 @@ Example configuration file:
 It uses the Cloudflare API to update the DNS records. Thus, a valid API key with
 permissions to edit DNS records is needed.
 
-Authenticating with email is not supported as it is considered unsecure and a bad practice.
+Authenticating with email is not supported as it is considered insecure and a bad practice.
 
 ### Public Ip APIs
 
